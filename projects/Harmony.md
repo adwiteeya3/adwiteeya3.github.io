@@ -20,11 +20,9 @@ A Music management/sharing/streaming platform built using Python and CRUD functi
 - Front-end: Bootstap
 - Database: SQLite
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/harmony-1.png">
-  <img class="ui image" src="../images/harmony-2.png">
-  <img class="ui image" src="../images/harmony-3.png">
-</div>
+  <img class="ui medium right floated rounded image" src="../images/harmony-1.png">
+  <img class="ui medium right floated rounded image" src="../images/harmony-2.png">
+  <img class="ui medium right floated rounded image" src="../images/harmony-3.png">
 
 ## Features
 
@@ -75,6 +73,7 @@ pip3 install -r requirements.txt
 4. Then do python app.py.
 5. Open http://127.0.0.1:5000/ in Your local browser.
 
+Source: <a href="https://github.com/adwiteeya3/py_harmony"><i class="large github icon"></i>py_harmony</a>
 
 
 
