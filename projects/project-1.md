@@ -19,6 +19,8 @@ summary: A Music management/sharing/streaming platform built using Python and CR
   <img class="ui image" src="../images/harmony-3.png">
 </div>
 
+
+
 A Music management/sharing/streaming platform built using Python and CRUD functionalities.
 
 - Framework used: Flask
