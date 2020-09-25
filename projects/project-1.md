@@ -20,8 +20,6 @@ summary: A Music management/sharing/streaming platform built using Python and CR
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-# py_harmony
-
 A Music management/sharing/streaming platform built using Python and CRUD functionalities.
 
 - Framework used: Flask
