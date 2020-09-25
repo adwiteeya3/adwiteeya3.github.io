@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Iris.jpg
-title: Cotton
+title: Iris
 permalink: projects/Iris
 projecturl: https://github.com/adwiteeya3/py-iris
 # All dates must be YYYY-MM-DD format!
