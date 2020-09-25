@@ -4,6 +4,7 @@ type: project
 image: images/harmony.jpg
 title: Harmony
 permalink: projects/Harmony
+projecturl: https://github.com/adwiteeya3/py_harmony
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-15
 labels:
