@@ -14,10 +14,9 @@ summary: A Music management/sharing/streaming platform built using Python and CR
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/harmony-1.jpg">
+  <img class="ui image" src="../images/harmony-2.jpg">
+  <img class="ui image" src="../images/harmony-3.jpg">
 </div>
 
 A Music management/sharing/streaming platform built using Python and CRUD functionalities.
