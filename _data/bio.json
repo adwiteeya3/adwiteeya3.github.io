@@ -34,36 +34,77 @@
   },
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Key Skills",
       "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+      "keywords": [ 
+        "Python", 
+        "JavaScript", 
+        "SQL Server", 
+        "R", 
+        "Tableau"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Python",
+        "R",
+        "Javascript",
+        "C++",
+        "HTML",
+        "Flask",
+        "React"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "",
+      "keywords": [
+        "SQL",
+        "T-SQL"
+      ]
+    },
+    {
+      "name": "Business Intelligence Tools",
+      "level": "",
+      "keywords": [
+        "SSIS",
+        "SSRS",
+        "SSMS",
+        "Tableau",
+        "UNIX"
+      ]
+    },
+    {
+      "name": "Library and others",
+      "level": "",
+      "keywords": [
+        "Selenium",
+        "TensorFlow",
+        "Django",
+        "Machine Learning",
+        "Data Warehousing"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "ABV-Indian Institute of Information Technology and Management, Gwalior, MP, IN",
+      "area": "Computer Science",
+      "studyType": "M.Tech",
+      "startDate": "2017-06-01",
+      "endDate": "2019-05-30",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "N C College of Engineering, Panipat, HR, IN",
+      "area": "Computer Science",
+      "studyType": "B.Tech",
+      "startDate": "2012-08-15",
+      "endDate": "2016-07-30",
       "gpa": "",
       "courses": [
       ]
@@ -71,27 +112,41 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Infosys Ltd., Mysore, KA, IN",
+      "position": "System Engineer Trainee",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-02-10",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Working on Business Intelligence technologies and tools",
+        "Build business dashboards which shows market trend analysis of customer’s purchasing pattern",
+        "Enhanced the performance of SSRS reports by eliminating unnecessary joins, columns etc.",
+        "Worked on a capstone project related to customer credit card details, performed cleansing, de-duplication, and harmonization of data across various systems, that was analysed by the experts as 94% accurate"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "HCL Technology, Noida, Delhi-NCR, IN",
+      "position": "Information Security Intern",
+      "website": "",
+      "startDate": "2016-04-01",
+      "endDate": "2016-09-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Worked on enhancing security of client’s information",
+        "Troubleshooting of SAP Enterprises, Outlook and SharePoint"
+      ]
+    },
+    {
+      "company": "MTNL, Delhi, IN",
+      "position": "Network and Hardware Intern",
+      "website": "",
+      "startDate": "2015-06-01",
+      "endDate": "2015-08-15",
+      "summary": "",
+      "highlights": [
+        "Configured real time routers and worked with protocols like FTP, Telnet along with assignment of IP’s to devices",
+        "Got an opportunity to work with CWG network engineers at MTNL Headquarters (among 40 interns)"
       ]
     }
   ],
