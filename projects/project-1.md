@@ -13,14 +13,6 @@ labels:
 summary: A Music management/sharing/streaming platform built using Python and CRUD functionalities
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/harmony-1.png">
-  <img class="ui image" src="../images/harmony-2.png">
-  <img class="ui image" src="../images/harmony-3.png">
-</div>
-
-
-
 A Music management/sharing/streaming platform built using Python and CRUD functionalities.
 
 - Framework used: Flask
@@ -28,6 +20,11 @@ A Music management/sharing/streaming platform built using Python and CRUD functi
 - Front-end: Bootstap
 - Database: SQLite
 
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/harmony-1.png">
+  <img class="ui image" src="../images/harmony-2.png">
+  <img class="ui image" src="../images/harmony-3.png">
+</div>
 
 ## Features
 
