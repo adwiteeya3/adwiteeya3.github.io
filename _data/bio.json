@@ -1,39 +1,34 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Adwiteeya",
+    "label": "Developer",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "adwiteeya3@gmail.com",
+    "phone": "",
+    "website": "https://adwiteeya3.github.io",
+    "summary": "Well versed with reporting packages, databases (SQL, T-SQL), programming a plus (Python, JavaScript, R), Front-end development. Proven ability to accurately collect, organize, analyse and disseminate substantial amount of information. Proven ability in leveraging data analysis tools and techniques and extracting insights from data and drive resultant business action"
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Mysore",
+      "countryCode": "IN",
+      "region": "Karnataka"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "adwiteeya3",
+        "url": "https://github.com/adwiteeya3"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "adwiteeya",
+        "url": "https://www.linkedin.com/in/adwiteeya/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Adwiteeya6",
+        "url": "https://twitter.com/Adwiteeya6"
       }
     ]
   },
